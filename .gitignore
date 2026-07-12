@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+data/
+bot_token.txt
+.DS_Store
