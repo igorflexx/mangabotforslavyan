@@ -15,7 +15,12 @@ Telegram-бот для отслеживания манги с [ReManga](https://
 
 1. Скопируйте `bot_token.example.txt` в `bot_token.txt`.
 2. Вставьте в `bot_token.txt` токен вашего Telegram-бота.
-3. Запустите файл `run local.command`.Only for MAC!
+<<<<<<< HEAD
+3. Файл `run local.command` - это bash-скрипт для терминала. Запустите его так:
+
+```bash
+bash "./run local.command"
+```
 
 ## Команды
 
